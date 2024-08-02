@@ -53,4 +53,4 @@ This project demonstrates how to efficiently prepare a large dataset for modelin
 
 ## Acknowledgments
 
-- DataCamp for providing the dataset.
+DataCamp for providing the dataset.
