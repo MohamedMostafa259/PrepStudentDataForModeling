@@ -19,7 +19,7 @@ In this notebook, I will clean up a large customer dataset, `customer_train.csv`
 | `city`                   | A code for the city the student lives in.                                        |
 | `city_development_index` | A scaled development index for the city.                                         |
 | `gender`                 | The student's gender.                                                            |
-| `relevant_experience`    | An indicator of the student's work relevant experience.                          |
+| `relevant_experience`    | An indicator of the student's work-relevant experience.                          |
 | `enrolled_university`    | The type of university course enrolled in (if any).                              |
 | `education_level`        | The student's education level.                                                   |
 | `major_discipline`       | The educational discipline of the student.                                       |
